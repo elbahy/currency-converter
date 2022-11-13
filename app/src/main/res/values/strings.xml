@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">currency</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="amount">Amount</string>
+    <string name="from">From</string>
+    <string name="american_dollar_usd">American Dollar - USD</string>
+    <string name="to">To</string>
+    <string name="egyptian_pound_egp">Egyptian Pound - EGP</string>
+    <string name="Saudia_Ryal">Saudia Ryal - SAR</string>
+    <string name="Kuwaiti_Dinar">Kuwaiti Dinar - KWD</string>
+    <string name="amount_required">Amount Required</string>
+    <string name="result">Result</string>
+    <string name="convert">Convert</string>
+    <string name="converted_amount">Converted Amount</string>
+</resources>

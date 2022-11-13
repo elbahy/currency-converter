@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">محول العملات</string>
+    <string name="currency_converter">تحويل العملات</string>
+    <string name="amount">القيمة</string>
+    <string name="from">من</string>
+    <string name="american_dollar_usd">دولار امريكي $</string>
+    <string name="to">الى</string>
+    <string name="egyptian_pound_egp">الجنية المصري - ج.م</string>
+    <string name="result">النتيجة</string>
+    <string name="convert">تحويل</string>
+    <string name="converted_amount">القيمة المحولة</string>
+    <string name="Saudia_Ryal">الريال السعودي - ر.س</string>
+    <string name="Kuwaiti_Dinar">الدينار الكويتي - د.ك</string>
+    <string name="amount_required">حقل مطلوب</string>
+</resources>
